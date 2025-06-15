@@ -1,0 +1,502 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 15353.674469807635,
+        "y": 3.1602022971042145
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 13291.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_businesscaseoppurtunity",
+          "nodeLineageTag": "6afbb9a6-bcfa-462f-9c6d-436655833ea8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13575.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_potentialoppurtunity",
+          "nodeLineageTag": "05b623b6-b813-4c71-b685-a79c62906b27",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13859.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_project",
+          "nodeLineageTag": "913e091d-fcf1-40fa-b22d-bec7afed7efb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14143.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_sector",
+          "nodeLineageTag": "46422e9b-55ac-40ab-a17e-37d77925ac4e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14427.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_study",
+          "nodeLineageTag": "22a9bd8c-5a59-4b16-ad62-54a21901cc9f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14711.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_projectphasetarget",
+          "nodeLineageTag": "ab21ec41-598b-43ba-8561-f5fc7b90129f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14995.701430149129,
+            "y": 743.123353241057
+          },
+          "nodeIndex": "CRM inf_sectortarget",
+          "nodeLineageTag": "2072669b-ef3a-4401-8803-0fe272475b49",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2772.3014972878004,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM account",
+          "nodeLineageTag": "f4171a32-d947-494d-b50f-6e5cd053c060",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 335.41621959142577,
+            "y": 389.08137229954593
+          },
+          "nodeIndex": "CRM campaign",
+          "nodeLineageTag": "1c0b7a22-8189-4a86-b519-c779fc869a47",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1970.3014972878004,
+            "y": 480.498353241057
+          },
+          "nodeIndex": "CRM contact",
+          "nodeLineageTag": "69c5963c-aa5b-42aa-97c9-d8a9a6a0537e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3056.3014972878004,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM incident",
+          "nodeLineageTag": "074ea6bc-839a-4254-b5bd-819a4a88c70b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1686.3014972878004,
+            "y": 480.498353241057
+          },
+          "nodeIndex": "CRM inf_challengeandrisk",
+          "nodeLineageTag": "f863ef56-1572-4399-ba63-d9163a29ec8a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1339.5415842637535,
+            "y": 258.76408505788493
+          },
+          "nodeIndex": "CRM inf_charter",
+          "nodeLineageTag": "447fe505-630f-4396-bf6a-f854b9b6d38f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1247.9544225331233,
+            "y": 966.0381923608071
+          },
+          "nodeIndex": "CRM inf_city",
+          "nodeLineageTag": "e897c5a9-b8a2-4d1a-a8fb-dc004ec7fd9d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 766.06037194310272,
+            "y": -50
+          },
+          "nodeIndex": "CRM inf_country",
+          "nodeLineageTag": "2432b1af-167c-4fd8-b017-0a84477367cc",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3340.3014972878004,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_followuprequest",
+          "nodeLineageTag": "feab617b-077c-4e1e-86d3-421540cf4f0b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3624.3014972878004,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_investoragreement",
+          "nodeLineageTag": "1d14cf23-3bcb-44da-bf38-b49e425732df",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3908.3014972878004,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_marketingoutreachnextactions",
+          "nodeLineageTag": "3b2498cd-59b4-4050-b271-f5b0278bc672",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2538.3014972878004,
+            "y": 480.498353241057
+          },
+          "nodeIndex": "CRM inf_masterdatacreationrequest",
+          "nodeLineageTag": "8c8a5e81-74b0-4a44-a8f4-a77a83971408",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2254.3014972878004,
+            "y": 480.498353241057
+          },
+          "nodeIndex": "CRM inf_nextstep",
+          "nodeLineageTag": "9f3992d4-f733-4941-a280-98d96d1aec92",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 900.30099575512816,
+            "y": 1010.996706482114
+          },
+          "nodeIndex": "CRM inf_offshelfincentive",
+          "nodeLineageTag": "6ad18b06-6036-4ec1-9ee7-a9a6d0d31b21",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4192.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_potentialoppurtunity (2)",
+          "nodeLineageTag": "28a21ab5-50aa-4a69-a6bc-befbd5f25c16",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4760.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_projectlessonslearnt",
+          "nodeLineageTag": "36b2f7ac-137b-4c17-b932-77e29f2bf8f7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5044.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_projectmarketingoutreachactivity",
+          "nodeLineageTag": "c37a595f-378b-4ad8-9a02-e0efc4b97665",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5328.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_rawmaterial",
+          "nodeLineageTag": "7539fe0e-4e49-434b-9656-25c87ca54773",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1402.3014972878004,
+            "y": 612.40167213570157
+          },
+          "nodeIndex": "CRM inf_region",
+          "nodeLineageTag": "19f88e6a-8d10-4a2e-ab1f-d2d807ab553e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 605.40953022133192,
+            "y": 1010.9651865952818
+          },
+          "nodeIndex": "CRM inf_segment",
+          "nodeLineageTag": "b24ddc2b-c748-4655-81b1-0a206c41f884",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 479.59955331694391,
+            "y": 35.435777426130244
+          },
+          "nodeIndex": "CRM inf_subsector",
+          "nodeLineageTag": "0c856cfd-0cd3-44c7-b76f-1e132e8b2efb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5612.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_tailoredincentive",
+          "nodeLineageTag": "086d054a-117e-4ca1-93d9-470b85e7d991",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 49.999999999999986,
+            "y": 323.75293951941785
+          },
+          "nodeIndex": "CRM inf_upcomingstudy",
+          "nodeLineageTag": "4b706f29-0c61-4a7e-9d05-6adff9399d8b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5896.3014972878009,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM inf_vendorprofile",
+          "nodeLineageTag": "704da4e4-a1de-4f72-9dd6-06a3f67f4cef",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15229.701430149129,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "FormattedStudySegments",
+          "nodeLineageTag": "7555d3f0-df30-4795-acc9-23a3b80293ad",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15697.701430149129,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "CRM campaignactivity",
+          "nodeLineageTag": "b9660adb-28c8-419f-8c98-2009476942b6",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15931.701430149129,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "FormattedCampaign",
+          "nodeLineageTag": "e8686949-9868-4541-9dfa-97a4312518ee",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16165.701430149129,
+            "y": 530.498353241057
+          },
+          "nodeIndex": "FormattedProject",
+          "nodeLineageTag": "df7ce3ba-fab3-4225-b3ed-9b2a8923d69f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16399.701430149129,
+            "y": 580.498353241057
+          },
+          "nodeIndex": "Quarters2025",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16633.701430149129,
+            "y": 616.498353241057
+          },
+          "nodeIndex": "Sheet1",
+          "nodeLineageTag": "9473303c-b445-4737-815b-7dba2851b6f7",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 63.287087723233995,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
